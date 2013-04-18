@@ -13,8 +13,8 @@ Instructions for Terminal on Mac.
 
 Run simulations by simply specifying number of games to run.
 
-	`java Simulation 210`
+	java Simulation 210
 
 ## About the Author
 
-I'm [Tim Kendall](https://twitter.com/TboyTim) and am curretnly obtaining by B.S. in C.S. at Chapman University in Orange, CA. When I have time I work on the occasional side project.
+I'm [Tim Kendall](https://twitter.com/TboyTim) - currently obtaining a B.S. in C.S. at Chapman University in Orange, CA. When I have time I work on the occasional side project.
