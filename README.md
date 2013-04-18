@@ -15,7 +15,7 @@ Run simulations by simply specifying number of games to run.
 
 	java Simulation 210
 
-Sample Output
+Sample output:
 	
 	Timothys-MacBook-Pro-2:6 Me$ java Simulation 210
 	Average battles per game: 467.6190476190476
