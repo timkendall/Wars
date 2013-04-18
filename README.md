@@ -7,7 +7,7 @@ Wars is a Java command line based simulator for the simple card game War. Keeps 
 Instructions for Terminal on Mac.
 
 * Cd to Wars directory: `cd \Downloads\Wars`
-* Compile .class files: `javac Card.java Deck.java Player.java Game.java Simulation.java
+* Compile .class files: `javac Card.java Deck.java Player.java Game.java Simulation.java`
 
 ## Usage
 
